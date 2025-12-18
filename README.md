@@ -23,8 +23,9 @@ src/
 ├── 1_data_collection/     # 데이터 수집
 ├── 2_preprocessing/       # 전처리
 ├── 3_district/            # 행정구역 처리
-├── 4_shade_analysis/      # 그늘 분석 ⭐
-└── 5_visualization/       # 시각화 ⭐
+├── 4_shade_analysis/      # 그늘 분석 
+└── 5_visualization/       # 시각화 
+docs/                      # 분석 방법론 문서
 ```
 
 ## 사용법
