@@ -43,14 +43,6 @@ python src/4_shade_analysis/segment_sci_analyzer.py
 python src/5_visualization/shade_sci_map_visualizer.py
 ```
 
-## 분석 파라미터
-
-| 파라미터 | 값 | 설명 |
-|---------|-----|------|
-| shade_factor | 0.65 | 그늘 반경 = 수관폭/2 × 0.65 |
-| max_gap | 8.0m | 연결 허용 gap |
-| segment_split_gap | 25.0m | 구간 분리 gap |
-
 ## 관련 프로젝트
 
 - [서울트리맵](https://github.com/handf00t/seoul-tree-map) - 서울시 나무 인터랙티브 지도
