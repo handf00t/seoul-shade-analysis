@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.env
+
+# Data files (too large for git)
+*.csv
+*.geojson
+*.json
+*.html
+*.mbtiles
+*.shp
+*.shx
+*.dbf
+*.prj
+
+# Output folders
+output/
+*_output/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
